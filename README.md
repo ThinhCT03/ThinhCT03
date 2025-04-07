@@ -3,7 +3,7 @@
 I'm an electrical engineer passionate about real-time systems, firmware development, and PCB design. Currently a final-year student at Ho Chi Minh city University of Technology, I enjoy building systems that connect hardware with smart software.
 
 ## 💡 What I Do
-- 🔧 **Embedded Systems**: C, RTOS, MCU programming (AVR, STM32, ESP32)
+- 🔧 **Embedded Systems**: C, RTOS, MCU programming (AVR, STM32, ESP32, Raspberry Pi)
 - 💻 **Hardware Design**: PCB Layout (Altium, OrCAD), signal integrity, Schematic/Circuit design
 - 📡 **Communication**: SPI, I2C, UART, CAN, Ethernet, ZigBee, LoRa
 
