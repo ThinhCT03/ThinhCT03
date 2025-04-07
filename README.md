@@ -19,5 +19,5 @@ Explore some of my work:
 - 🌱 Smart agriculture boards
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/le-cong-thinh-4b45a3244/)
 - 📧 thinhlecongkg2003@gmail.com
