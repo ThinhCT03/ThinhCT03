@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Thinh!
 
-<!--
-**ThinhCT03/ThinhCT03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an embedded engineer passionate about real-time systems, firmware development, and high-speed PCB design. Currently a final-year student at Ho Chi Minh city University of Technology, I enjoy building systems that connect hardware with smart software.
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- 🔧 **Embedded Systems**: C, RTOS, MCU programming (AVR, STM32, ESP32)
+- 💻 **Hardware Design**: PCB Layout (Altium, OrCAD), signal integrity
+- 📡 **Communication**: SPI, I2C, UART, CAN, Ethernet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: C, C++, Python, Assembly
+- **Tools**: Keil, CubeIDE, VS Code, PlatformIO
+- **PCB**: Altium, OrCAD, Allegro
+
+## 🚀 Projects
+Explore some of my work:
+- 🧠 Real-time control systems
+- 🌐 IoT edge devices
+- 🌱 Smart agriculture boards
+
+## 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 thinhlecongkg2003@gmail.com
